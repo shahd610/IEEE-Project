@@ -1,0 +1,4 @@
+[server]
+port = 443
+enableCORS = false
+enableXsrfProtection = false
